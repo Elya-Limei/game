@@ -68,8 +68,6 @@ class Game {
         });
     }
 
-// что-то удалили
-
     updateElements() {
         this.elements.forEach((el) => {
             el.Update();
