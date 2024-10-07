@@ -68,6 +68,9 @@ class Game {
         });
     }
 
+    //привет
+
+
     updateElements() {
         this.elements.forEach((el) => {
             el.Update();
